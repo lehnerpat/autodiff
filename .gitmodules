@@ -1,0 +1,6 @@
+[submodule "expressions"]
+	path = expressions
+	url = https://github.com/nevik/autodiff-expressions.git 
+[submodule "differentiator"]
+	path = differentiator
+	url = https://github.com/nevik/autodiff-differentiator.git
